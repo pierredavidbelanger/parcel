@@ -22,7 +22,8 @@ const ATTRS = {
   href: ['link', 'a'],
   poster: ['video'],
   'xlink:href': ['use'],
-  content: ['meta']
+  content: ['meta'],
+  page: ['ons-navigator', 'ons-splitter-side', 'ons-tab']
 };
 
 // A list of metadata that should produce a dependency
